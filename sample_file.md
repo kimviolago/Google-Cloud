@@ -18,3 +18,4 @@ New line added
 6. To commit, add descriptive message then click check mark or commit.
 7. To create a new branch, press shift+ctrl+p then type create branch. Enter branch name.
 8. To see changes side-by-side, click on file. Then click ... and select inline view to see the changes in one file.
+9. To merge, go to master, click ... on upper left side, hover branch, select merge branch, click the branck you want to merge.
